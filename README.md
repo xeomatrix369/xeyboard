@@ -1,4 +1,4 @@
 # xeyboard
 opensource split keyboard
 
-![Keyboard Image](front.jpg)
+![Keyboard Image](front.jpeg)
